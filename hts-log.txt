@@ -1,0 +1,570 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Feb 2023 22:21:01 at https://www.classcentral.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwr2C2t%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%c1%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.classcentral.com/ -O1 "D:\Class Central 2\CC" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:31:35	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business (from https://www.classcentral.com/)
+22:31:35	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/humanities (from https://www.classcentral.com/)
+22:31:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/science (from https://www.classcentral.com/)
+22:31:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/education (from https://www.classcentral.com/)
+22:31:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-sciences (from https://www.classcentral.com/)
+22:32:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-science (from https://www.classcentral.com/)
+22:32:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/personal-development (from https://www.classcentral.com/)
+22:32:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec (from https://www.classcentral.com/)
+22:42:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/information-technology (from https://www.classcentral.com/)
+22:42:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-networking (from https://www.classcentral.com/)
+22:42:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/machine-learning (from https://www.classcentral.com/)
+22:42:35	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/deep-learning (from https://www.classcentral.com/)
+22:42:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/quantum-computing (from https://www.classcentral.com/)
+22:42:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/hci (from https://www.classcentral.com/)
+22:43:19	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blockchain (from https://www.classcentral.com/)
+22:43:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-graphics (from https://www.classcentral.com/)
+22:44:08	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/disease-and-disorders (from https://www.classcentral.com/)
+22:44:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/health-care (from https://www.classcentral.com/)
+22:44:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nursing (from https://www.classcentral.com/)
+22:44:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/veterinary-science (from https://www.classcentral.com/)
+22:44:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/statistics (from https://www.classcentral.com/)
+22:45:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/calculus (from https://www.classcentral.com/)
+22:45:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/discrete-mathematics (from https://www.classcentral.com/)
+22:45:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/geometry (from https://www.classcentral.com/)
+22:46:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/precalculus (from https://www.classcentral.com/)
+22:46:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/number-theory (from https://www.classcentral.com/)
+22:46:22	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mathematical-logic (from https://www.classcentral.com/)
+22:46:32	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/management-and-leadership (from https://www.classcentral.com/)
+22:46:32	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/finance (from https://www.classcentral.com/)
+22:46:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/marketing (from https://www.classcentral.com/)
+22:47:19	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/industry-specific (from https://www.classcentral.com/)
+22:47:42	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/accounting (from https://www.classcentral.com/)
+22:47:42	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/human-resources (from https://www.classcentral.com/)
+22:48:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sales (from https://www.classcentral.com/)
+22:48:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/risk-management (from https://www.classcentral.com/)
+22:48:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/csr (from https://www.classcentral.com/)
+22:49:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nonprofit (from https://www.classcentral.com/)
+22:51:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/language-learning (from https://www.classcentral.com/)
+22:51:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/grammar-writing (from https://www.classcentral.com/)
+22:52:08	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/religion (from https://www.classcentral.com/)
+22:52:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/culture (from https://www.classcentral.com/)
+22:52:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/journalism (from https://www.classcentral.com/)
+22:52:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethics (from https://www.classcentral.com/)
+22:53:25	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/food (from https://www.classcentral.com/)
+22:53:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/crisis-management (from https://www.classcentral.com/)
+22:53:38	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/robotics (from https://www.classcentral.com/)
+22:53:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/gis (from https://www.classcentral.com/)
+22:53:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/textiles (from https://www.classcentral.com/)
+22:53:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bim (from https://www.classcentral.com/)
+22:53:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/energy-systems (from https://www.classcentral.com/)
+22:54:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemistry (from https://www.classcentral.com/)
+22:54:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/physics (from https://www.classcentral.com/)
+22:54:46	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/biology (from https://www.classcentral.com/)
+22:54:46	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/agriculture (from https://www.classcentral.com/)
+22:55:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/earth-science (from https://www.classcentral.com/)
+22:55:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/applied-science (from https://www.classcentral.com/)
+22:55:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/k12 (from https://www.classcentral.com/)
+22:55:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/stem (from https://www.classcentral.com/)
+22:56:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/course-development (from https://www.classcentral.com/)
+22:56:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/online-education (from https://www.classcentral.com/)
+22:56:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pedagogy (from https://www.classcentral.com/)
+22:56:43	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/economics (from https://www.classcentral.com/)
+22:57:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anthropology (from https://www.classcentral.com/)
+22:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/law (from https://www.classcentral.com/)
+22:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/urban-planning (from https://www.classcentral.com/)
+22:57:42	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sustainability (from https://www.classcentral.com/)
+22:58:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/archaeology (from https://www.classcentral.com/)
+22:58:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/music (from https://www.classcentral.com/)
+22:58:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-media (from https://www.classcentral.com/)
+22:59:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/design-and-creativity (from https://www.classcentral.com/)
+22:59:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/big-data (from https://www.classcentral.com/)
+22:59:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-analysis (from https://www.classcentral.com/)
+22:59:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-visualization (from https://www.classcentral.com/)
+22:59:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mobile-development (from https://www.classcentral.com/)
+23:00:22	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/databases (from https://www.classcentral.com/)
+23:00:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-languages (from https://www.classcentral.com/)
+23:00:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/software-development (from https://www.classcentral.com/)
+23:01:32	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/self-improvement (from https://www.classcentral.com/)
+23:01:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/resilience (from https://www.classcentral.com/)
+23:02:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/network-security (from https://www.classcentral.com/)
+23:02:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-forensics (from https://www.classcentral.com/)
+23:02:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pentesting (from https://www.classcentral.com/)
+23:02:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devsecops (from https://www.classcentral.com/)
+23:03:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/threat-intelligence (from https://www.classcentral.com/)
+23:03:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec-certifications (from https://www.classcentral.com/)
+23:03:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blue-team (from https://www.classcentral.com/)
+23:05:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/help/moocs (from https://www.classcentral.com/)
+23:06:44	Error: 	"Not Found" (404) at link https://www.classcentral.com/images/illustrations/homepage-discover-01.png (from https://www.classcentral.com/)
+23:13:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/unccelearn (from https://www.classcentral.com/)
+23:23:22	Warning: 	Moved Permanently for https://www.classcentral.com/report/google-free-certificates/
+23:23:22	Warning: 	File has moved from https://www.classcentral.com/report/google-free-certificates/ to https://www.classcentral.com/report/free-google-certifications/
+23:24:07	Warning: 	Moved Permanently for https://www.classcentral.com/collection/ivy-league-moocs/
+23:24:07	Warning: 	File has moved from https://www.classcentral.com/collection/ivy-league-moocs/ to https://www.classcentral.com/collection/ivy-league-moocs
+23:25:28	Error: 	"Not Found" (404) at link https://www.classcentral.com/update-item/ (from https://www.classcentral.com/)
+23:25:28	Error: 	"Not Found" (404) at link https://www.classcentral.com/delete-item/ (from https://www.classcentral.com/)
+23:25:28	Error: 	"Not Found" (404) at link https://www.classcentral.com/move-item/ (from https://www.classcentral.com/)
+23:25:28	Error: 	"Not Found" (404) at link https://www.classcentral.com/maestro/course-reviews/ (from https://www.classcentral.com/)
+23:25:28	Error: 	"Not Found" (404) at link https://www.classcentral.com/coordinator/ (from https://www.classcentral.com/)
+23:25:28	Error: 	"Not Found" (404) at link https://www.classcentral.com/s/ (from https://www.classcentral.com/)
+23:25:28	Error: 	"Not Found" (404) at link https://www.classcentral.com/enrollee-list/update-item-progress/ (from https://www.classcentral.com/)
+23:25:28	Warning: 	Link https://www.classcentral.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+23:25:29	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/www.classcentral.com/images/promobar/star-blue.svg
+23:25:29	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subjects4658.html
+23:25:29	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/cs4658.html
+23:25:29	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/csc2cc.svg
+23:25:29	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f7bda83986e6fd97.svg
+23:25:29	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/health4658.html
+23:25:29	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/healthe1dd.svg
+23:25:29	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/maths4658.html
+23:25:29	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/maths3e32.svg
+23:25:31	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/engineering4658.html
+23:25:31	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/engineering48f7.svg
+23:25:31	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/art-and-design4658.html
+23:25:31	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/art-and-designf44b.svg
+23:25:31	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/programming-and-software-development4658.html
+23:25:31	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/programming-and-software-development5d8b.svg
+23:25:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fpolimi-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=3ce6f90b0c354b78090ba76da592ce23 (from https://www.classcentral.com/universities)
+23:25:31	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fimperial-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=491ced3b3af1c21a8faf06406e4001ff (from https://www.classcentral.com/universities)
+23:25:31	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Ftsinghua-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=9952c4b37101f4725155496d3539d1fa (from https://www.classcentral.com/universities)
+23:25:31	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fyale-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=c6713c1a65e25f811377d939b7977f7a (from https://www.classcentral.com/universities)
+23:25:33	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fanahuac-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=a403de657e7698e8c96c7b4d93a1e7d2 (from https://www.classcentral.com/universities)
+23:25:33	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fhkust-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=5ec6a4f3084c566744bff64466d16648 (from https://www.classcentral.com/universities)
+23:25:33	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Ftomsk-state-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=493b580e4d940b6b1322956fd9445ca3 (from https://www.classcentral.com/universities)
+23:25:33	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fminnesota-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=a21f01bcb2b4f8f3b645d1cd3bd8646f (from https://www.classcentral.com/universities)
+23:25:34	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fuq-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=635c842f3cd1a81a2198d1dab822c711 (from https://www.classcentral.com/universities)
+23:25:34	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fubc-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=c0c3c78690da1506bfb21ac18b2c4b98 (from https://www.classcentral.com/universities)
+23:25:34	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fmacquarie-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=852b9403fd23c08da9fbe26ca610e985 (from https://www.classcentral.com/universities)
+23:25:34	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fsuny-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=7f441edd87a80d13747eb42eda3b7aaa (from https://www.classcentral.com/universities)
+23:25:35	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fumd-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=15fba4449fc5778d26d390cfd1d95a7e (from https://www.classcentral.com/universities)
+23:25:35	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fuw-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=3ed49dcb9bc07fc66cd0108b95bd98f2 (from https://www.classcentral.com/universities)
+23:25:35	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fupm-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=d4db70502cca7efe9930b135b3af4805 (from https://www.classcentral.com/universities)
+23:25:35	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fdeakin-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=8cf62e7a117744a5adb18058155add6d (from https://www.classcentral.com/universities)
+23:25:36	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Ftaiwan-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=71774fc1849945cc050b50dace240bc5 (from https://www.classcentral.com/universities)
+23:25:36	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fberklee-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=32ba668bd257e6db71829972dd754802 (from https://www.classcentral.com/universities)
+23:25:36	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fdoane-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=1a376a2e70496274f201dd09b996cf56 (from https://www.classcentral.com/universities)
+23:25:36	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fglasgow-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=5e8cab210e161dbc71363dfe37b6a1e7 (from https://www.classcentral.com/universities)
+23:25:38	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fberkeley-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=2f04eb02172dafbaa37651d7a128f929 (from https://www.classcentral.com/universities)
+23:25:38	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Flondon-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=13d8afbdb1b52dd90158dd4d49bdf84c (from https://www.classcentral.com/universities)
+23:25:38	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fwageningenur-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=40a8a976925854a6a315c2e35d0660c2 (from https://www.classcentral.com/universities)
+23:25:38	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fuab-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=faa46465b7c5bd4cceb434af55e6c691 (from https://www.classcentral.com/universities)
+23:25:39	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fgalileo-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=acb882a8457bf1902f4d59a35797b6bd (from https://www.classcentral.com/universities)
+23:25:39	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fhkpolyu-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=750fb97c1f4b305eeffaff485bd47aa0 (from https://www.classcentral.com/universities)
+23:25:39	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Funige-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=d03f6850f6bcaf090860615dec909c71 (from https://www.classcentral.com/universities)
+23:25:39	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Futoronto-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=7c62faeacb4e1e874dc316d5f7480e8d (from https://www.classcentral.com/universities)
+23:25:40	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fnorthwestern-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=2b01c14cd62f8f65bf663cafdc8c760b (from https://www.classcentral.com/universities)
+23:25:40	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Futexas-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=2e960a0280495b550c85d804af2c7202 (from https://www.classcentral.com/universities)
+23:25:40	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Faustral-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=43094b14bf5cb615bb7a026f689ca216 (from https://www.classcentral.com/universities)
+23:25:40	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fusg-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=a8bac87072f0e8cf678cb630340c2851 (from https://www.classcentral.com/universities)
+23:25:41	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fnyu-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=22c27ba5c60b854d8a08e98791d38f46 (from https://www.classcentral.com/universities)
+23:25:41	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Femory-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=64c31703cb91f8d70bc5f195381a449b (from https://www.classcentral.com/universities)
+23:25:41	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Faachen-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=2d1740633d141d7749b8693fe7ef94b2 (from https://www.classcentral.com/universities)
+23:25:41	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fep-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=8d8ad6f05b91014bbac870a5e0fd9372 (from https://www.classcentral.com/universities)
+23:25:42	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fyonsei-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=85238c3522b7d2f4f96b01af78e590e7 (from https://www.classcentral.com/universities)
+23:25:42	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fcalarts-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=4b4b625cd6eb07aad15d9b734446e0e8 (from https://www.classcentral.com/universities)
+23:25:42	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fkcl-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=0445625de9c0ed7fd4224e42df8510b3 (from https://www.classcentral.com/universities)
+23:25:42	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fprinceton-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=4273596c0c7f38d99e880974f0b93175 (from https://www.classcentral.com/universities)
+23:25:43	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fualberta-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=17563443a8bf2ee135408d2b366bdb3d (from https://www.classcentral.com/universities)
+23:25:43	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fuea-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=ac2c1925add9a65f0e742d085b312506 (from https://www.classcentral.com/universities)
+23:25:43	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fisb-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=b2d7943cc51e3bfe586f926b1c17127b (from https://www.classcentral.com/universities)
+23:25:43	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fshef-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=11e283be1009374ff8aba306e63d9944 (from https://www.classcentral.com/universities)
+23:25:44	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fcornell-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=9bec1eb8e07ab0d00dd5a6e90e5297b3 (from https://www.classcentral.com/universities)
+23:25:44	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fsaic-trn-sq.png?auto=format&blur=200&h=80&ixlib=php-3.3.1&px=16&s=0fbc6726e5817e2e91e6ab2a52f27a76 (from https://www.classcentral.com/universities)
+23:25:44	Warning: 	Warning: store text/css without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/css/frontend.min2072.css
+23:25:44	Warning: 	Warning: store text/css without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min2072.css
+23:25:44	Warning: 	Warning: store text/css without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/select2/select2.min080f.css
+23:25:44	Error: 	"Service Temporarily Unavailable" (503) at link https://www.classcentral.com/report/xmlrpc.php?rsd (from https://www.classcentral.com/report/)
+23:25:44	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/safari-pinned-tab.svg
+23:25:44	Warning: 	Warning: store text/css without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/themes/wp-theme/dist/webpack/cc-style.1faac0f8c55193cb997a.css
+23:25:46	Warning: 	Note: due to https://secure.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+23:25:46	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/cs.svg
+23:25:46	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/business.svg
+23:25:46	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/humanities.svg
+23:25:46	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/data-science.svg
+23:25:46	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/personal-development.svg
+23:25:46	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/art-and-design.svg
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71214
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/?p=71214 to https://www.classcentral.com/report/most-popular-online-courses/
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index7b9d.html
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77094
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/?p=77094 to https://www.classcentral.com/report/best-free-online-courses-2022/
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index4928.html
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73773
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/?p=73773 to https://www.classcentral.com/report/best-free-online-courses-2021/
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/indexacb4.html
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77063
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/?p=77063 to https://www.classcentral.com/report/most-popular-courses-2022/
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index1a28.html
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73299
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/?p=73299 to https://www.classcentral.com/report/100-most-popular-online-courses-2021/
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/indexc39c.html
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=66895
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/?p=66895 to https://www.classcentral.com/report/coursera-free-online-courses/
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index5f7b.html
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/semrush-icon-no-bg/
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/semrush-icon-no-bg/ to https://www.classcentral.com/report/wp-content/uploads/2023/01/semrush-icon-no-bg.png
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/semrush-icon-no-bg/index.html
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74608
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/?p=74608 to https://www.classcentral.com/report/free-certificates/
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index4541.html
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74324
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/?p=74324 to https://www.classcentral.com/report/free-google-certifications/
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index5cd6.html
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/mooc-course-report/february-2023.html
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/starting-this-month4658.html
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/new-online-courses/january-20234658.html
+23:25:46	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84744
+23:25:46	Warning: 	File has moved from https://www.classcentral.com/report/?p=84744 to https://www.classcentral.com/report/most-popular-february-2023/
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index0ade.html
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/ai4658.html
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/algorithms-and-data-structures4658.html
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/internet-of-things4658.html
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/devops4658.html
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/cryptography4658.html
+23:25:46	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/78ff14b675e4300a.svg
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/nutrition-and-wellness4658.html
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/public-health4658.html
+23:25:46	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fd9c6f660b564.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=1e526f2a28877c92ef50523e3a2be804 (from https://www.classcentral.com/subject/public-health)
+23:25:46	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/anatomy4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/cme4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/foundations-of-mathematics4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/trigonometry4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/algebra4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/entrepreneurship4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/strategic-management4658.html
+23:25:47	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Ff9c1fd5b33eb.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=c0c691744e99fa3afd1a47507cae53c4 (from https://www.classcentral.com/subject/strategic-management)
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/business-intelligence4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/project-management4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/design-thinking4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/business-software4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/customer-service4658.html
+23:25:47	Warning: 	Warning: store image/svg+xml without scan: D:/Class Central 2/CC/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/25b825f48b362c86.svg
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/innovation4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/operations-management4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/history4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/literature4658.html
+23:25:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/4db260bf44a7.png (from https://www.classcentral.com/subject/literature)
+23:25:47	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/e93246d72a5a.png (from https://www.classcentral.com/subject/literature)
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/philosophy4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/esl4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/sports4658.html
+23:25:47	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/linguistics4658.html
+23:25:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/9b5bf47a3649.jpg (from https://www.classcentral.com/subject/linguistics)
+23:25:47	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/82de6e5111f2.jpg (from https://www.classcentral.com/subject/linguistics)
+23:25:49	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/6966e1681877.jpg (from https://www.classcentral.com/subject/linguistics)
+23:25:51	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/b7f7b86ffe7f.png (from https://www.classcentral.com/subject/linguistics)
+23:25:51	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/78a8fd4a1f63.jpg (from https://www.classcentral.com/subject/library-science)
+23:25:51	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fcec-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=0c8142b17a53ce0a2190526b0f72adbc (from https://www.classcentral.com/subject/library-science)
+23:25:51	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/53fdc70229d6.jpg (from https://www.classcentral.com/subject/library-science)
+23:25:52	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/16b62bb6f9de.jpg (from https://www.classcentral.com/subject/library-science)
+23:25:52	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/c5f3c5f3c12f.png (from https://www.classcentral.com/subject/library-science)
+23:25:54	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/5a4fc00ad5bf.png (from https://www.classcentral.com/subject/library-science)
+23:25:54	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/68ffe874d299.jpeg (from https://www.classcentral.com/subject/library-science)
+23:25:55	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/0bb470beb16a.png (from https://www.classcentral.com/subject/library-science)
+23:25:56	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fnios-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=71deb990d511e32587818f6154d16739 (from https://www.classcentral.com/subject/library-science)
+23:25:58	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/4149975c0efd.jpg (from https://www.classcentral.com/subject/library-science)
+23:25:58	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/e0dcb674cce5.jpg (from https://www.classcentral.com/subject/library-science)
+23:26:00	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fimg.youtube.com%2Fvi%2F047jyoCPS3I%2Fhqdefault.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=5c434ef10f35f399f762ec870467bbac (from https://www.classcentral.com/subject/library-science)
+23:26:02	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fignou-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=4a3b3b6284db47a85a504921c97be47e (from https://www.classcentral.com/subject/library-science)
+23:26:03	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fimg.youtube.com%2Fvi%2FarHpwrkJDDc%2Fhqdefault.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=be19eb5cafd2e7f8fabf52f299143ed0 (from https://www.classcentral.com/subject/library-science)
+23:26:04	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/bff338ac573a.jpg (from https://www.classcentral.com/subject/library-science)
+23:26:06	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/6021aa1f0de0.jpg (from https://www.classcentral.com/subject/library-science)
+23:26:07	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/reading?page=2 (from https://www.classcentral.com/subject/reading)
+23:26:20	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/289966dfe2f3.jpg (from https://www.classcentral.com/subject/reading)
+23:26:22	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/8a0bb3416909.jpg (from https://www.classcentral.com/subject/reading)
+23:26:23	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/c553329074ff.jpg (from https://www.classcentral.com/subject/reading)
+23:26:25	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/31264755e652.png (from https://www.classcentral.com/subject/reading)
+23:26:28	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/81131dca368c.jpg (from https://www.classcentral.com/subject/reading)
+23:26:30	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/a6f5b4c0e111.jpg (from https://www.classcentral.com/subject/reading)
+23:26:31	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/0015244e11cd.jpg (from https://www.classcentral.com/subject/reading)
+23:26:32	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fmagoosh-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=66167af13bbc9b74d2b3659b3977b188 (from https://www.classcentral.com/subject/reading)
+23:26:34	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/95c8c0776d94.jpg (from https://www.classcentral.com/subject/reading)
+23:26:36	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/7e243cf36a83.jpg (from https://www.classcentral.com/subject/reading)
+23:26:38	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/b17f364a230c.jpg (from https://www.classcentral.com/subject/reading)
+23:26:39	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ce5d6379e6f9.jpg (from https://www.classcentral.com/subject/reading)
+23:26:41	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ff605be73eb7.jpg (from https://www.classcentral.com/subject/reading)
+23:26:43	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/3fe3f65fde6b.jpg (from https://www.classcentral.com/subject/reading)
+23:26:44	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f0fbd964ea52.jpg (from https://www.classcentral.com/subject/reading)
+23:26:46	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/bfb23904d082.jpg (from https://www.classcentral.com/subject/reading)
+23:26:47	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/electrical-engineering?page=2 (from https://www.classcentral.com/subject/electrical-engineering)
+23:26:49	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/89f9b9603ec4.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:26:51	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/04a4b007a797.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:26:52	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/801be5feae39.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:26:53	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/8a05d420b39f.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:26:56	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/1c49b668bf55.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:26:58	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/cb3330d31523.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:26:59	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ea206a868f67.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:26:59	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/723b1b26a688.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:27:01	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/070dc3c7bf4c.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:27:01	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/5940b5d24fb4.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:27:02	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/7db88a0ae154.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:27:02	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/c4c8c7f16265.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:27:03	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/212bcc61f518.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:27:03	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/b89c4582c130.jpg (from https://www.classcentral.com/subject/electrical-engineering)
+23:27:04	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/mechanical-engineering?page=2 (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:04	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/c5b1664c60dd.jpg (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:06	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/6a12b0dbd728.jpg (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:06	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/40d204e66f6c.jpg (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:08	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/8a9ad69e3048.jpg (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:09	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/0cec9d158ae5.jpg (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:10	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/25944796a5ab.jpg (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:11	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/7c2b8c5c9ce3.jpg (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:12	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/d595ba42e695.png (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:12	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fminnesota-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=0a5b8625530936c75ee78a0aee438d49 (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:14	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/1c99c91b25b7.jpg (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:14	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/fecbbd01e0cb.png (from https://www.classcentral.com/subject/mechanical-engineering)
+23:27:17	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/civil-engineering?page=2 (from https://www.classcentral.com/subject/civil-engineering)
+23:27:19	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/116fde7042b7.jpg (from https://www.classcentral.com/subject/civil-engineering)
+23:27:20	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ffecbbcb8901.jpg (from https://www.classcentral.com/subject/civil-engineering)
+23:27:21	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/e511ae88a13d.jpg (from https://www.classcentral.com/subject/civil-engineering)
+23:27:22	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ab413370e83b.jpg (from https://www.classcentral.com/subject/civil-engineering)
+23:27:24	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/93871931f7b6.jpeg (from https://www.classcentral.com/subject/civil-engineering)
+23:27:26	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/e74a90519d46.jpg (from https://www.classcentral.com/subject/civil-engineering)
+23:27:27	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/830b88198c84.jpg (from https://www.classcentral.com/subject/civil-engineering)
+23:27:29	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/accecb6dc3a7.jpg (from https://www.classcentral.com/subject/civil-engineering)
+23:28:00	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/d49f2dd9326c.png (from https://www.classcentral.com/subject/civil-engineering)
+23:28:03	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fep-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=08f967ac41e307e30b7d87314e12e088 (from https://www.classcentral.com/subject/civil-engineering)
+23:28:05	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/01dc3cecf1ea.jpg (from https://www.classcentral.com/subject/civil-engineering)
+23:28:21	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/7c192b45f26b.png (from https://www.classcentral.com/subject/civil-engineering)
+23:28:23	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Ftaiwan-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=485266e2592f844658287f9881fdafaa (from https://www.classcentral.com/subject/civil-engineering)
+23:28:25	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/nanotechnology?page=2 (from https://www.classcentral.com/subject/nanotechnology)
+23:28:35	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/dc41fbc22ee9.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:35	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fiit-roorkee-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=5d292ecec2f7fb7ba474819990529032 (from https://www.classcentral.com/subject/nanotechnology)
+23:28:37	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ad8ae1d2ca21.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:37	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/9a9fde6ef386.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:39	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/74e303e18979.jpeg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:39	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/2308c4b6a60b.png (from https://www.classcentral.com/subject/nanotechnology)
+23:28:40	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/26092c38c0de.png (from https://www.classcentral.com/subject/nanotechnology)
+23:28:40	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/38ad6948a53c.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:41	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/59bd98e6cd1e.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:43	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/252616dc4744.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:44	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/464499b56bd4.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:45	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/aa6e729b5efa.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:45	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/69fd5e95d72f.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:46	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ef086a765c41.jpg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:46	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fpurdue-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=c93bcafb813876b4feaed49fd9883611 (from https://www.classcentral.com/subject/nanotechnology)
+23:28:47	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/67f725f42010.jpeg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:47	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/707fc5eea4af.jpeg (from https://www.classcentral.com/subject/nanotechnology)
+23:28:47	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/manufacturing?page=2 (from https://www.classcentral.com/subject/manufacturing)
+23:28:49	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/60397a0bc53a.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:28:49	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/89e82923189a.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:28:50	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/587d453d1cc1.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:28:51	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/33861332761a.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:28:53	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/cc88e267ae65.png (from https://www.classcentral.com/subject/manufacturing)
+23:28:54	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/a35f8661e515.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:28:55	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/aa78074c3ba6.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:28:56	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/9f756320b9b1.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:28:57	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/632f5af50bc8.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:28:59	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fautodesk-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=ff349da066797644761b9a25822711d8 (from https://www.classcentral.com/subject/manufacturing)
+23:29:00	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/fe00118850d7.png (from https://www.classcentral.com/subject/manufacturing)
+23:29:02	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/88dcfc261fe3.png (from https://www.classcentral.com/subject/manufacturing)
+23:29:04	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/291cf3afc240.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:29:04	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/9b48eb909605.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:29:05	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/20dcde919f22.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:29:06	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/6ebabba73248.jpg (from https://www.classcentral.com/subject/manufacturing)
+23:29:07	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/cad?page=2 (from https://www.classcentral.com/subject/cad)
+23:29:10	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/5d60b241acc7.png (from https://www.classcentral.com/subject/cad)
+23:29:14	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/1bfeaf5382ab.jpg (from https://www.classcentral.com/subject/cad)
+23:29:15	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/de3ac200a325.png (from https://www.classcentral.com/subject/cad)
+23:29:18	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/7d43cdcdb7c4.png (from https://www.classcentral.com/subject/cad)
+23:29:19	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/fcb274a38f72.png (from https://www.classcentral.com/subject/cad)
+23:29:21	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/87844b3a699e.jpg (from https://www.classcentral.com/subject/cad)
+23:29:23	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/20547735d98b.png (from https://www.classcentral.com/subject/cad)
+23:29:24	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f0544aa292da.png (from https://www.classcentral.com/subject/cad)
+23:29:26	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/b01d461afd36.jpg (from https://www.classcentral.com/subject/cad)
+23:29:28	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/fcdc73ee9a77.jpg (from https://www.classcentral.com/subject/cad)
+23:29:29	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/bfe9d19af6fd.jpg (from https://www.classcentral.com/subject/cad)
+23:29:30	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/786179300ebf.png (from https://www.classcentral.com/subject/cad)
+23:29:31	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/b392feca89ed.png (from https://www.classcentral.com/subject/cad)
+23:29:32	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/31ee68ee1a80.png (from https://www.classcentral.com/subject/cad)
+23:29:34	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/chemical-engineering?page=2 (from https://www.classcentral.com/subject/chemical-engineering)
+23:29:36	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f97533d9c0eb.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:29:47	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/a60aae65f999.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:29:49	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/bb1158381885.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:29:50	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/750aed6c0533.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:29:51	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/faf680049274.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:29:52	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/9b8e9e3d2f40.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:01	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/3a17c3fcb556.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:03	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/1d9f79da96af.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:04	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/b2bca0e4086d.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:05	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/457c225ff59c.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:06	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/887a14617c93.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:07	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/2a70535d59a7.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:08	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/8c329b5f0b64.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:43	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/2ef2723d1553.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:45	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/12abb2de7e30.jpg (from https://www.classcentral.com/subject/chemical-engineering)
+23:30:46	Warning: 	Retry after error -4 (Connect Error) at link https://www.classcentral.com/subject/aerospace-engineering?page=2 (from https://www.classcentral.com/subject/aerospace-engineering)
+23:30:54	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ae2451a14f50.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:30:56	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/e5d1faef568a.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:30:57	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/0857342e82ec.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:30:59	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/b97b55c0ac18.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:00	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/62a0e416f1fa.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:01	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/a97f4c94b371.jpeg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:02	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/e78516efc169.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:03	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/219e08801e0c.jpeg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:05	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/60358421c8b2.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:06	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/fa65d7533ba1.jpeg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:06	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/4adc592372cf.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:07	Warning: 	Retry after error -4 (Connect Error) at link https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flogos%2Finstitutions%2Fnptel-hz.png?auto=format&blur=200&h=40&ixlib=php-3.3.1&px=16&s=baef46b4bda711e6f545467820ef18fa (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:07	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/d3053c139725.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:09	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/a0a522c61898.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:09	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ca671dac9113.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:11	Warning: 	Retry after error -4 (Connect Error) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/ecdb84a58e7e.jpg (from https://www.classcentral.com/subject/aerospace-engineering)
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/environmental-science4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/astronomy4658.html
+23:31:11	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fa921d43d68ec.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=b012e7c58af064fa45183912ba9c2909 (from https://www.classcentral.com/subject/astronomy)
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/materials-science4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/higher-education4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/teacher-development4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/test-prep4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/sociology4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/psychology4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/political-science4658.html
+23:31:11	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F3969735f8334.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=583f7c329466ff46a208b8c821c7845e (from https://www.classcentral.com/subject/political-science)
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/human-rights4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/governance4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/visual-arts4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/bioinformatics4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/data-mining4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/web-development4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/game-development4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/cloud-computing4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/communication-skills4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/career-development4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/presentation-skills4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/cybersecurity4658.html
+23:31:11	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F9c1a1ba8adbd.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=fa0301aa9ae917acf5eb02965010dd6c (from https://www.classcentral.com/subject/cybersecurity)
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/ethical-hacking4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/malware-analysis4658.html
+23:31:11	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84384
+23:31:11	Warning: 	File has moved from https://www.classcentral.com/report/?p=84384 to https://www.classcentral.com/report/2022-year-in-review/
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index4821.html
+23:31:11	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+23:31:11	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/wp-json/wp/v2/users/0 (from https://www.classcentral.com/report/author/dhawal/)
+23:31:11	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85358
+23:31:11	Warning: 	File has moved from https://www.classcentral.com/report/?p=85358 to https://www.classcentral.com/report/review-exploratory-data-analysis-matlab/
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/indexf543.html
+23:31:11	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85341
+23:31:11	Warning: 	File has moved from https://www.classcentral.com/report/?p=85341 to https://www.classcentral.com/report/review-learning-to-teach/
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index527b.html
+23:31:11	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85377
+23:31:11	Warning: 	File has moved from https://www.classcentral.com/report/?p=85377 to https://www.classcentral.com/report/udemy-layoffs/
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index5a49.html
+23:31:11	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85302
+23:31:11	Warning: 	File has moved from https://www.classcentral.com/report/?p=85302 to https://www.classcentral.com/report/best-davinci-resolve-courses/
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index0ddb.html
+23:31:11	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85347
+23:31:11	Warning: 	File has moved from https://www.classcentral.com/report/?p=85347 to https://www.classcentral.com/report/most-popular-march-2023/
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/indexa750.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/stanford4658.html
+23:31:11	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fe988eccaf953.png?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=cf6fe3f68c3f3c2784f64dbfe12c4e77 (from https://www.classcentral.com/collection/sustainability-online-courses)
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/mit4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/institution/google4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/institution/amazon4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/category/best-courses/page/2/index.html
+23:31:11	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84167
+23:31:11	Warning: 	File has moved from https://www.classcentral.com/report/?p=84167 to https://www.classcentral.com/report/online-learning-deals/
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index5a97.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/harvard4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/iit-kharagpur4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/rice4658.html
+23:31:11	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F7edef2c71a55.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=2a3d64ece3ab489aa639d53afed6cbaf (from https://www.classcentral.com/university/rice)
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/iitm4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/columbia4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/edinburgh4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/purdue4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/penn4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/duke4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/umich4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/provider/coursera4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/provider/edx4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/provider/futurelearn4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/provider/udemy4658.html
+23:31:11	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/provider/swayam4658.html
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/provider/linkedin-learning4658.html
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/provider/skillshare4658.html
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/institution/microsoft4658.html
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/institution/ibm4658.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71534
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=71534 to https://www.classcentral.com/report/harvard-cs50-guide/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index5ea4.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=69630
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=69630 to https://www.classcentral.com/report/chinese-mooc-platforms/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index7475.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85107
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=85107 to https://www.classcentral.com/report/futurelearn-expands-paywall/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index7c68.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73933
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=73933 to https://www.classcentral.com/report/udemy-by-the-numbers/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index197b.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84789
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=84789 to https://www.classcentral.com/report/domestika-layoffs/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index7304.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84718
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=84718 to https://www.classcentral.com/report/thinkific-layoffs/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index9565.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84681
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=84681 to https://www.classcentral.com/report/udemy-new-ceo/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/indexbca6.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70103
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=70103 to https://www.classcentral.com/report/cs50-free-certificate/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index70a0.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85322
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=85322 to https://www.classcentral.com/report/best-free-prolog-courses/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index3be8.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85250
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=85250 to https://www.classcentral.com/report/best-japanese-courses/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index7a82.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85267
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=85267 to https://www.classcentral.com/report/best-erlang-courses/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index598f.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85198
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=85198 to https://www.classcentral.com/report/best-css-animation-courses/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index7045.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73844
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=73844 to https://www.classcentral.com/report/udemy-top-courses/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index4337.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72109
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=72109 to https://www.classcentral.com/report/india-online-degrees/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index702e.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=65630
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=65630 to https://www.classcentral.com/report/mooc-based-masters-degree/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index127b.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70569
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=70569 to https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index3575.html
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/provider/udacity4658.html
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/university/gatech4658.html
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/institution/linuxfoundation4658.html
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/institution/salesforce4658.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83775
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=83775 to https://www.classcentral.com/report/most-popular-courses-2023/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index0ebe.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76388
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=76388 to https://www.classcentral.com/report/coursera-top-courses/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/indexfbe4.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76369
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=76369 to https://www.classcentral.com/report/edx-top-courses/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index4aa4.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83561
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=83561 to https://www.classcentral.com/report/class-central-ddos-attack/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index3476.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=67197
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=67197 to https://www.classcentral.com/report/open-university-insiders-perspective/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index6b6e.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72028
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=72028 to https://www.classcentral.com/report/linkedin-learning-free-learning-paths/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/index29c3.html
+23:31:12	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=58243
+23:31:12	Warning: 	File has moved from https://www.classcentral.com/report/?p=58243 to https://www.classcentral.com/report/writing-free-online-courses/
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/report/indexbd64.html
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/reading4658
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/electrical-engineering4658
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/mechanical-engineering4658
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/civil-engineering4658
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/nanotechnology4658
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/manufacturing4658
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/cad4658
+23:31:12	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/chemical-engineering4658
+23:31:14	Warning: 	Warning: store text/html without scan: D:/Class Central 2/CC/www.classcentral.com/subject/aerospace-engineering4658
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 10 minutes 13 seconds : 3436 links scanned, 3075 files written (319862088 bytes overall) [162184279 bytes received at 38496 bytes/sec], 190480677 bytes transferred using HTTP compression in 436 files, ratio 13%, 5.1 requests per connection
+(106 errors, 453 warnings, 0 messages)
